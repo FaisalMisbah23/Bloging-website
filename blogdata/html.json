@@ -1,0 +1,7 @@
+{
+    "topic": "Getting Started with HTML5",
+    "author": "Jane Smith",
+    "slug": "html",
+    "article": "<h2>How to Learn JavaScript<\/h2>\r\n<p>JavaScript, a dynamic and versatile programming language, serves as the backbone of web development. Embark on your JavaScript journey by grasping the fundamentals, understanding DOM manipulation, and mastering asynchronous programming. Explore frameworks like React and Vue for building robust and interactive web applications.<\/p>\r\n<p>Author: JSNinja<\/p>\r\n<p>\uD83D\uDCD8 Tags: JavaScript, Programming, WebDevelopment<\/p>\r\n",
+    "content": "HTML5 introduces exciting features for web developers, enhancing the structure and functionality of web pages. Start by familiarizing yourself with semantic elements, multimedia capabilities, and improved form elements. Dive into the world of responsive design, exploring the integration of audio and video elements seamlessly.Learn to use HTML5 Canvas for graphics and animations, making your web pages more interactive. Stay updated on emerging HTML5 specifications and best practices to ensure your web projects align with industry standards."
+  }

@@ -1,0 +1,7 @@
+{
+    "topic": "Introduction to React.js",
+    "author": "Emily Brown",
+    "slug": "react",
+    "article":"<h2>Introduction to React.js<\/h2>\r\n<p>React.js, a JavaScript library for building user interfaces, has gained widespread adoption for its component-based architecture. Get started with React by creating reusable components, managing state and props, and understanding the virtual DOM. Explore React Hooks and context API for efficient state management and global data sharing.<\/p>\r\n<p>Author: ReactEnthusiast<\/p>\r\n<p>\u269B\uFE0F Tags: React.js, JavaScript, Frontend<\/p>\r\n",
+    "content": "React.js, a JavaScript library for building user interfaces, has gained widespread adoption for its simplicity and efficiency. Start by grasping the fundamentals of React, including components, state, and props. Learn to create dynamic and reusable UI components, utilizing the virtual DOM for efficient rendering. Explore React Router for navigation within your applications and delve into state management using Redux. Solidify your React skills by building real-world projects and actively participating in the React community."
+  }
